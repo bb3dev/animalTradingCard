@@ -1,0 +1,36 @@
+
+.box{
+  border: 1px gray solid;
+  padding:8px;
+  width: 270px;
+  font: 12px black Sans-serif;
+  border-radius: 5px;
+  margin:auto;
+}
+.container{
+    border: 1px black solid;
+    border-radius: 5px;
+    background: lightblue;
+    padding:10px 10px 10px 10px;
+    margin: auto;
+    width: 300px;
+    box-shadow: 5px 5px lightgray;
+}
+
+#cool_fact{
+  font-style: italic;
+}
+.details span{
+  font-weight: bold;
+}
+
+#img{
+  width:284px;
+  padding:8px;
+  display:block;
+}
+
+ul{
+  list-style: none;
+  padding: 2px;
+}
